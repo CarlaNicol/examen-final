@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CarlaNicol/examen-final.git/static/css/main.e6c13ad2.css",
+    "main.js": "/CarlaNicol/examen-final.git/static/js/main.be317d9a.js",
+    "static/js/453.ab191dd1.chunk.js": "/CarlaNicol/examen-final.git/static/js/453.ab191dd1.chunk.js",
+    "index.html": "/CarlaNicol/examen-final.git/index.html",
+    "main.e6c13ad2.css.map": "/CarlaNicol/examen-final.git/static/css/main.e6c13ad2.css.map",
+    "main.be317d9a.js.map": "/CarlaNicol/examen-final.git/static/js/main.be317d9a.js.map",
+    "453.ab191dd1.chunk.js.map": "/CarlaNicol/examen-final.git/static/js/453.ab191dd1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.be317d9a.js"
+  ]
+}
