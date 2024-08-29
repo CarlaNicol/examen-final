@@ -3,8 +3,6 @@ import React from 'react';
 const LandingPage = () => {
   return (
     <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '20px', textAlign: 'left' }}>
-      {/* Título principal con fondo verde */}
-      {/* Título principal con fondo verde */}
 <div style={{ backgroundColor: '#4CAF50', padding: '20px', color: 'white', textAlign: 'center', marginBottom: '20px' }}>
   <h1 style={{ margin: 0, fontSize: '3em' }}>Modulo 7: DESARROLLO FRONTEND CON</h1>
   <h1 style={{ margin: 0, fontSize: '3em' }}>REACTJS</h1>
